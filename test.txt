@@ -1,8 +1,5 @@
-wzy 123 test 
-
-123-修改一下
-
-456
-
-change2
-添加一行
+git
+git add test.txt
+git commit -m "提交代码注释"
+git push origin master
+git pull --rebase origin master
